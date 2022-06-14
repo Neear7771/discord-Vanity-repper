@@ -1,7 +1,7 @@
 # discord-Vanity-repper
 If Someone Adds Vanity In Status Bot Gives Them Role And sends message in channel
 
-~ repl - https://replit.com/@Neear7771/Discord-Vanity-repper?v=1
+~ repl: https://replit.com/@Neear7771/Discord-Vanity-repper?v=1
 
 ~ easy to use just click on start button
 
