@@ -1,5 +1,5 @@
 # discord-Vanity-repper
-If Someone Added Vanity In Status Gives Them Role And sends message in channels
+If Someone Adds Vanity In Status Bot Gives Them Role And sends message in channel
 
 ~ easy to use just click on start button
 
